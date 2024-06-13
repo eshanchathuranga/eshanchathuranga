@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshanchathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="eshanchathuranga" /> </p>
 
-<p align="left"> <a href="https://twitter.com/eshanchathuva" target="blank"><img src="https://img.shields.io/twitter/follow/eshanchathuva?logo=twitter&style=for-the-badge" alt="eshanchathuva" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eshansky7" target="blank"><img src="https://img.shields.io/twitter/follow/eshanchathuva?logo=twitter&style=for-the-badge" alt="eshansky7" /></a> </p>
 
 - 🔭 I’m currently working on [ESMS API](https://www.npmjs.com/package/@eshanchathuranga/esms-api)
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📝 I regularly write articles on [http://www.eshansky7](http://www.eshansky7)
+- 📝 I regularly write articles on [http://www.eshansky7.live](http://www.eshansky7.live)
 
 - 📫 How to reach me **eshanchathurangafdo@gmail.com**
 
