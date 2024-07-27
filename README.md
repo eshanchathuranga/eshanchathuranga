@@ -3,7 +3,7 @@
 </a>
 ## About Me
 <a align="left">
-I am a passionate devoloper with expertise in [javascript, bash / arduino, npm]. I love building [type of applications] and exploring new technologies. In my free time, I enjoy contributing to open-source projects and sharing my knowledge through blog posts and tutorials.
+I am a passionate devoloper with expertise in [ javascript, bash / arduino, npm ]. I love building [type of applications] and exploring new technologies. In my free time, I enjoy contributing to open-source projects and sharing my knowledge through blog posts and tutorials.
 </a>
 
 ## My Skills
@@ -54,6 +54,6 @@ I regularly write my [blog](http://www.eshansky7.live/).
 
 ## Contact Me
 
-Feel free to reach out to me via [email](mailto:eshanchathurangafdo@gmail.com) or connect with me on [LinkedIn](link) and [Twitter](link).
+Feel free to reach out to me via [email](mailto:eshanchathurangafdo@gmail.com).
 
 Let's collaborate and build amazing things together!
