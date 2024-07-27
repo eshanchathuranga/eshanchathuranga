@@ -7,7 +7,7 @@ I am a passionate software engineer with expertise in [programming languages/tec
 </a>
 ## My Skills
 
--  <div display="flex">
+-  <div align="left">
         <div>
             <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
             <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -48,9 +48,7 @@ I am a passionate software engineer with expertise in [programming languages/tec
 Here are some of the projects I have worked on:
 
 - [Dialog ESMS API](https://www.npmjs.com/package/@eshanchathuranga/esms-api)
-- [Project 2](link)
-- [Project 3](link)
-- ...
+
 
 ## Blog
 
