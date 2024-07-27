@@ -1,5 +1,5 @@
-<a align="center">I'm Eshan Chathuranga. 
-Welcome to my GitHub profile! Here's a brief introduction about me and what you can find in my repositories.
+<a align="center">I'm Eshan Chathuranga. </a>
+<a align="center">Welcome to my GitHub profile! Here's a brief introduction about me and what you can find in my repositories.
 </a>
 ## About Me
 <a align="left">
