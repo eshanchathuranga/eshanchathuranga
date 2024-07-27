@@ -3,11 +3,12 @@
 </a>
 ## About Me
 <a align="left">
-I am a passionate software engineer with expertise in [programming languages/technologies]. I love building [type of applications] and exploring new technologies. In my free time, I enjoy contributing to open-source projects and sharing my knowledge through blog posts and tutorials.
+I am a passionate devoloper with expertise in [javascript, bash / arduino, npm]. I love building [type of applications] and exploring new technologies. In my free time, I enjoy contributing to open-source projects and sharing my knowledge through blog posts and tutorials.
 </a>
+
 ## My Skills
 
--  <div align="left">
+<div align="left">
         <div>
             <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
             <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -49,7 +50,7 @@ Here are some of the projects I have worked on:
 
 ## Blog
 
-I regularly write about [topics] on my [blog](http://www.eshansky7.live/).
+I regularly write my [blog](http://www.eshansky7.live/).
 
 ## Contact Me
 
