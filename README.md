@@ -1,13 +1,13 @@
-I'm Eshan Chathuranga. 
+<a align="center">I'm Eshan Chathuranga. 
 Welcome to my GitHub profile! Here's a brief introduction about me and what you can find in my repositories.
- 
+</a>
 ## About Me
-
+<a align="left">
 I am a passionate software engineer with expertise in [programming languages/technologies]. I love building [type of applications] and exploring new technologies. In my free time, I enjoy contributing to open-source projects and sharing my knowledge through blog posts and tutorials.
-
+</a>
 ## My Skills
 
--  <div align="center">
+-  <div display="flex">
         <div>
             <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
             <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
