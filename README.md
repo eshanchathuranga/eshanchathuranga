@@ -3,7 +3,7 @@
 </a>
 ## About Me
 <a align="left">
-I am a passionate devoloper with expertise in [ javascript, bash / arduino, npm ]. I love building [type of applications] and exploring new technologies. In my free time, I enjoy contributing to open-source projects and sharing my knowledge through blog posts and tutorials.
+I am a passionate devoloper with expertise in  javascript,  npm and bash . I love building APIs and exploring new technologies. In my free time, I enjoy contributing to open-source projects and sharing my knowledge through blog posts and tutorials.
 </a>
 
 ## My Skills
